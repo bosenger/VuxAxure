@@ -1,37 +1,39 @@
 # VuxAxure
 
-#### 介绍
-Vux Axure组件库，制作中。。。
+![Banner](http://qiniu.baozipm.com/wp-content/uploads/2018/12/720P-1024x576.png "Banner")
 
-#### 软件架构
-软件架构说明
+#### 起源
+之前公司的产品有用过Vux的Vue框架，体验还不错，使用的范围也比较广，而且是基于WeUI做的优化，所以在微信中使用也符合WeUI的样式。所以决定做一套Vux的Axure组件库，既可以方便自家的产品设计，也可以共享出来让更多人受益。
 
+#### Vux
+Vux项目地址：https://vux.li/
+VUX（读音 [v’ju:z]，同 views）是基于WeUI和Vue(2.x)开发的移动端UI组件库，主要服务于微信页面。
+基于webpack + vue-loader + vux可以快速开发移动端页面，配合vux-loader方便你在WeUI的基础上定制需要的样式。
+vux-loader保证了组件按需使用，因此不用担心最终打包了整个vux的组件库代码。
+VUX并不完全依赖于WeUI，VUX 在 WeUI 的基础上扩展了多个常用组件，但是尽量保持整体UI样式接近WeUI的设计规范。
 
-#### 安装教程
+#### 项目规划
 
-1. xxxx
-2. xxxx
-3. xxxx
+**时间和排期：**
+-预览版V0.9上线：2018年1月20日；
+-正式版V1.0上线：2018年2月5日；
+-争取春节正式上线，作为新年礼物送给大家。
 
-#### 使用说明
+**制作版本：**
 
-1. xxxx
-2. xxxx
-3. xxxx
+-初步打算使用Axure9 beta版本制作，简单看了一下，猜测新版本对移动端原型制作会更友好；
+-不过还没有用Axure9制作过项目，所以不排除用回Axure8的可能性。
 
-#### 参与贡献
+**一点说明：**
+Vux包含的组件要比WeUI更加丰富（不过不得不说UI的精致程度是不如WeUI的），所以有可能Vux做完后，会出一套UI更精致的WeUI的组件库，可以满足轻量使用的场景。
+不过虽然项目Bannar说这是一个凑合的Axure组件库，我并不打算凑合着做，有可能会略微更改Vux的设计来优化样式。
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+**开源及免费**
 
+当然项目完成后，仍然会和iView Axure一样，保持开源和免费。
 
-#### 码云特技
+#### 联系方式
+如果想与我取得联系，请邮件我：bosenger@qq.com
+如果同志们确实很喜欢这个组件库，可以捐赠￥6.6支持工作，谢谢大家。
+![捐赠二维码](http://baozipmimg.oss-cn-beijing.aliyuncs.com/img/IMG_1274.JPG "捐赠二维码")
 
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
