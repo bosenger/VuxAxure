@@ -8,11 +8,17 @@
 #### Vux
 Vux项目地址：https://vux.li/
 VUX（读音 [v’ju:z]，同 views）是基于WeUI和Vue(2.x)开发的移动端UI组件库，主要服务于微信页面。
+
 基于webpack + vue-loader + vux可以快速开发移动端页面，配合vux-loader方便你在WeUI的基础上定制需要的样式。
+
 vux-loader保证了组件按需使用，因此不用担心最终打包了整个vux的组件库代码。
 VUX并不完全依赖于WeUI，VUX 在 WeUI 的基础上扩展了多个常用组件，但是尽量保持整体UI样式接近WeUI的设计规范。
 
+
 #### 项目规划
+
+**预览地址：**
+https://mpccku.axshare.com/#c=2
 
 **时间和排期：**
 
